@@ -17,4 +17,5 @@ Abaixo serão descritos cada um desses benefícios:
 - Gerenciabilidade: se relaciona com os outros benefícios de tal modo que se refere à facilidade de gerenciamento dos recursos da cloud, como a implantação de recursos em situações de grande demanda (elasticidade e escalabilidade) e o gerenciamento dos recursos em geral e dos ambientes da cloud (governança e segurança).
 
 Conclusão
+
 Em geral, as clouds, como as da Microsoft Azure, são ambientes bastante eficientes e versáteis, visto que seu custo se baseia em demanda e suas ferramentas trazem infinitas possibilidades ao seus usuários, porém é mais indicado para usos empresariais, visto que o uso de diversos recursos pode ser caro para apenas o uso de poucas pessoas.
