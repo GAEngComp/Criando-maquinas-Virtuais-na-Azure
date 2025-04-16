@@ -1,5 +1,5 @@
 # Criando-Maquinas-Virtuais-na-Azure
-Desafio de Código DIO - Criando Máquina Virtuais na Azure
+Desafio de Projeto DIO - Criando Máquina Virtuais na Azure
 
 
 
